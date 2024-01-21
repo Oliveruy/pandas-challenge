@@ -20,7 +20,7 @@ This repository contains a Jupyter Notebook file that explores various aspects o
 
 ### School Type Analysis
 
-Independent schools showcase a slight advantage, boasting higher average scores and passing rates.
+Independent schools shows a slightly higher average scores and passing rates.
 
 ### Average Math Scores by Year
 
